@@ -1,7 +1,5 @@
 ### Hi, I'm 林子揚 (Roy) 👋
 
-🏢 Industrial Technology Research Institute (ITRI) · 工研院
-
 **Hardware × software.** I design PCBs with AI agents and scripts, build IoT / embedded systems (ESP32, nRF, Raspberry Pi), and fix the open-source EDA tools I run into along the way.
 
 我用 AI agent 與程式畫電路板,做 ESP32 / nRF / 樹莓派的嵌入式與 IoT 系統,順手修好路上踩到的開源 EDA 工具。
